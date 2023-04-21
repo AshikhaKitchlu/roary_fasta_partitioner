@@ -2,6 +2,8 @@
 
 __author__="Ashikha"
 
+#The following program was written while I was working as a project associate under the guidance of Dr. Jeyaprakash Rajendhran, Genetics Department, Madurai Kamaraj University in the year 2022.
+
 #To move the fasta sequences of core, soft-core, shell and cloud genes into four separate files
 
 import csv, argparse, os
